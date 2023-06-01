@@ -1,22 +1,22 @@
-## Objectives:
+## 🏛️ Objectives:
 
 As an architect turned Python backend developer, I have always been fascinated by the question of how we shape our world, and how our world shapes us.
 
 Likewise, coding offers a different method to questioning, understanding and shaping the age we live in. I feel eager to apply my learnings from the past year to various problems, not through the rise and fall of constructed matter but through the very real impact of the digital on our world.
 
-# Featured Projects:
+# 🌟 Featured Projects:
 
-## [Ingreduce]():
+## 🍅 [Ingreduce](https://github.com/TechLabs-Berlin/st22-ingredient-tracker):
 
 ### Ingredient tracker and recipe suggestion web app
-
+  
 #### __Position__: JavaScript Backend in a MERN app
 
 05/2022-08/2022: Interdisciplinary project phase TechLabs Berlin ST22.
 
 Build a JavaScript backend using Node.js, Express and MongoDB. Closely collaborate with frontend and data science to provide user admission, APIs and NoSQL database.
 
-## [Naturdoc]():
+## 🌱 [Naturdoc]():
 
 ### Plant-based treatment suggestion web app
 
