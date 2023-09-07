@@ -14,7 +14,12 @@ Likewise, coding offers a different method to questioning, understanding and sha
 
 05/2022-08/2022: Interdisciplinary project phase TechLabs Berlin ST22.
 
-Build a JavaScript backend using Node.js, Express and MongoDB. Closely collaborate with frontend and data science to provide user admission, APIs and NoSQL database.
+Built a JavaScript backend using Node.js, Express and MongoDB. Closely collaborated with frontend and data science to provide user admission, APIs and NoSQL database.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## [Naturdoc](https://github.com/TechLabs-Berlin/wt23-naturdoc):
 
@@ -24,10 +29,30 @@ Build a JavaScript backend using Node.js, Express and MongoDB. Closely collabora
 
 01/2023-04/2023: Interdisciplinary project phase TechLabs Berlin WT22/23
 
-Craft a dataset by extracting and manipulating data from various sources. Clustering algorithms train a model that helps in matching and classifying symptoms.
+Crafted a dataset by extracting and manipulating data from various sources. Clustering algorithms trained a model that helps in matching and classifying symptoms.
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HDBScan](https://img.shields.io/badge/HDBScan-black.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-# Tech Stack:
+## [CoderVerse](https://github.com/Paul-Mazu/devs-PortfolioHub):
+
+### A portfolio hub web app for devs by devs
+
+#### __Position__: JavaScript Frontend
+
+05/2023-08/2023: Final project phase Digital Career Institute FBW P22-E03 
+
+Built a JavaScript frontend using Node.js and React. Closely collaborated with the Django and PostgreSQL-based backend to align on APIs provided.
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+
+# Complete Tech Stack:
 
 <div style="text-align: center">
 
@@ -59,6 +84,7 @@ Craft a dataset by extracting and manipulating data from various sources. Cluste
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 ![Affinity Designer](https://img.shields.io/badge/affinitydesigner-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) 
+![Corel Painter](https://img.shields.io/badge/corelpainter-%23150458.svg?style=for-the-badge&logo=corel-designer&logoColor=white) 
 
 </div>
 <br>
